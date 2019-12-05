@@ -17,12 +17,12 @@ This project was developed at [Instituto de Telecomunicações](https://it.pt) (
 Below are the instructions to run the provided framework.
 
 #### Training the CNNs
-Run *train.py* without any arguments Datasets, Hyper-parameters and settings are all hardcoded and defined at the beggining of the script. All these settings are commented to help change them if necessary.
+Run *train.py* without any arguments. Datasets, Hyper-parameters and settings are all hardcoded and defined at the beggining of the script. All these settings are commented to help change them if necessary.
 
 #### Inferece
 During trainig, the obtained models are evaluated every epoch.
 
-For indepedent inferece (i.e. without running the training script) run *eval.py* without any arguments Datasets and settings are all hardcoded and defined at the beggining of the script. 
+For indepedent inferece (i.e. without running the training script) run *eval.py* without any arguments. Datasets and settings are all hardcoded and defined at the beggining of the script. All these settings are commented to help change them if necessary.
 
 ## Contacts
 For any question or problem, please contact *paulomreusebio@hotmail.com* or open an issue.
