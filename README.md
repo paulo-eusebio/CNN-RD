@@ -20,7 +20,7 @@ Below are the instructions to run the provided framework.
 Run *train.py* without any arguments. Datasets, Hyper-parameters and settings are all hardcoded and defined at the beggining of the script. All these settings are commented to help change them if necessary.
 
 #### Inferece
-During trainig, the obtained models are evaluated every epoch.
+During training, the obtained models are evaluated every epoch.
 
 For indepedent inferece (i.e. without running the training script) run *eval.py* without any arguments. Datasets and settings are all hardcoded and defined at the beggining of the script. All these settings are commented to help change them if necessary.
 
