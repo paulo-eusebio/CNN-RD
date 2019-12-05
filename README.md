@@ -8,8 +8,10 @@ Coding Framework complemented with the two following Convolutional Neural Networ
 
 This framework allows to train both CNNs with a loss function that minimizes both distortion (with MSE) and rate. The former is achieved by estimating the Discrete Cosine Transform coefficients that JPEG would quantize to zero.
 
+See *extended_abstract.pdf* for further information.
+
 ## Credits
-This project was developed at [Instituto de Telecomunicações](https://it.pt) (IT).
+This project was developed at [Instituto de Telecomunicações](https://it.pt) (IT) and [Instituto Superior Técnico](https://tecnico.ulisboa.pt/) in a Master Thesis context.
 
 ## Instructions 
 Below are the instructions to run the provided framework.
