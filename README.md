@@ -1,5 +1,6 @@
 # CNN-RD
-End-to-end Image Compresion Optimization with CNNs
+
+Convolutional Neural Networks for rate-distortion minimization (CNN-RD).
 
 ## About
 Coding Framework complemented with the two following Convolutional Neural Networks (CNNs).
