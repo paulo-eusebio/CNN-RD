@@ -1,6 +1,6 @@
 # CNN-RD
 
-Convolutional Neural Networks for rate-distortion minimization (CNN-RD).
+Convolutional Neural Networks for Rate-Distortion minimization (CNN-RD).
 
 ## About
 Coding Framework complemented with the two following Convolutional Neural Networks (CNNs).
