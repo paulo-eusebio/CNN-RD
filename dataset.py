@@ -14,8 +14,8 @@ def get_images_from_path(root):
             sample = Image.open(path)
             sample = sample.convert(mode='L')
             images.append(sample)
-            if i > 250:
-                break
+            #if i > 250: #for debug
+            #    break
     print('{} Images loaded'.format(len(images)))
     return images
 
